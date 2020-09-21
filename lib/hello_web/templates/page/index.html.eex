@@ -1,0 +1,23 @@
+
+
+<input id="logged" type="text" placeholder="enter your username for login" class="form-control" style="display:inline"></input>
+<button id="login_user" type="button"  class="btn btn-info">login</button>
+
+<input id="username" type="text" placeholder="enter your username for registeration" class="form-control" style="display:inline"></input>
+<button id="register_userid" type="button"  class="btn btn-info">register</button>
+
+<input id="subscribe" type="text" placeholder="enter user to subscribe"  class="form-control"></input>
+<button id="subcribe_button" type="button" class="btn btn-info">subscribe</button>
+
+<input id="sendtweet" type="text" placeholder="send tweet now" class="form-control"></input>
+<button id="sendtweet_id" type="button"  class="btn btn-info">send tweet</button>
+
+
+<button id="search_user_tweets" type="button" class="btn btn-info">search tweets</button>
+
+
+<button id="mentions" type="button"  class="btn btn-info">search your mention</button>
+
+<button id="clear_screen" type="button"  class="btn btn-info">clear screen</button>
+<button id="log_out" type="button"  class="btn btn-info">logout</button>
+<div id="messages"></div>
