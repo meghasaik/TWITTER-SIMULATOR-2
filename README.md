@@ -39,7 +39,7 @@ Run Individual Clients:
 		11) Through the logout button provided, the user will be logged out.
 		12) You can clear the screen by clicking the clear screen button.
 
-The link of the video is: https://youtu.be/w3c0p6N0sJw.s
+The link of the video is: https://youtu.be/w3c0p6N0sJw
 
 
 
